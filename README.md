@@ -4,7 +4,7 @@ This repository hosts the code used for Gmaz & van der Meer, "Context coding in 
 
 See [here](https://gin.g-node.org/jgmaz/BiconditionalOdor) for the associated data.
 
-Makes use of the [vandermeerlab codebase](https://github.com/vandermeerlab/vandermeerlab), as well as the Machens lab [dPCA code](https://github.com/machenslab/dPCA) from [Kobak et al. 2016](https://elifesciences.org/articles/10989).
+Makes use of the [vandermeerlab codebase](https://github.com/vandermeerlab/vandermeerlab), as well as the Machens lab [dPCA toolbox](https://github.com/machenslab/dPCA) from [Kobak et al. 2016](https://elifesciences.org/articles/10989).
 
 For figures related to behavioral performance (Figure 1, S1), see the genBeh workflow in the Behavior folder.
 
