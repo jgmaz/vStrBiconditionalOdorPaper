@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2022 jgmaz
+Copyright (c) 2022 contributors
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,15 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+Licensed code
+=============
+
+- [dPCA toolbox](https://github.com/machenslab/dPCA) by Machens lab
+- [shadedErrorBar](https://www.mathworks.com/matlabcentral/fileexchange/26311-raacampbell-shadederrorbar) by Rob Campbell
+
+Contributors
+============
+
+- Jimmie Gmaz
+- Matthijs van der Meer
